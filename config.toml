@@ -22,7 +22,7 @@ iconHeight = 35
 [params.profileMode]
 enabled = true
 title = "Perry Software"
-subtitle = "My name is Brendan Pery, and I provide software development services, specializing in mobile apps. Send me an email to discuss a project that I can build with you!"
+subtitle = "My name is Brendan Perry, and I provide software development services, specializing in mobile apps. Send me an email to discuss a project that I can build with you!"
 imageUrl = "/profilePicture.jpg"
 imageWidth = 200
 imageHeight = 200

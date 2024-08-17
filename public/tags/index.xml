@@ -6,49 +6,6 @@
     <description>Recent content in Tags on perrysoftware.com</description>
     <generator>Hugo -- 0.132.1</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 30 Apr 2022 12:26:00 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>IOS</title>
-      <link>http://localhost:1313/tags/ios/</link>
-      <pubDate>Sat, 30 Apr 2022 12:26:00 -0400</pubDate>
-      <guid>http://localhost:1313/tags/ios/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Swift</title>
-      <link>http://localhost:1313/tags/swift/</link>
-      <pubDate>Sat, 30 Apr 2022 12:26:00 -0400</pubDate>
-      <guid>http://localhost:1313/tags/swift/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>School</title>
-      <link>http://localhost:1313/tags/school/</link>
-      <pubDate>Mon, 03 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/school/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Web</title>
-      <link>http://localhost:1313/tags/web/</link>
-      <pubDate>Wed, 16 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/web/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Linux</title>
-      <link>http://localhost:1313/tags/linux/</link>
-      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/linux/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Unity</title>
-      <link>http://localhost:1313/tags/unity/</link>
-      <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/unity/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>
