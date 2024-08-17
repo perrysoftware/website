@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on perrysoftware.com</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on perrysoftware.com</description>
+    <generator>Hugo -- 0.132.1</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 16 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/posts/about-me/</link>
+      <pubDate>Fri, 16 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/about-me/</guid>
+      <description>Hello! My name is Brendan Perry. I love God, have an incredible family of four, and enjoy watching the St. Louis Cardinals.
+I am a software engineer who loves to build things. I have experience in mobile development with iOS, Android, and Xamarin, as well as back-end development in .NET.
+My desire to learn new technology and tackle fun projects has driven my journey in software. I have always enjoyed playing video games and wanted to learn how to create my own.</description>
+    </item>
+  </channel>
+</rss>

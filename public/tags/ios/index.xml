@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>IOS on perrysoftware.com</title>
+    <link>http://localhost:1313/tags/ios/</link>
+    <description>Recent content in IOS on perrysoftware.com</description>
+    <generator>Hugo -- 0.132.1</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 30 Apr 2022 12:26:00 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/ios/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sporadic</title>
+      <link>http://localhost:1313/projects/sporadic/</link>
+      <pubDate>Sat, 30 Apr 2022 12:26:00 -0400</pubDate>
+      <guid>http://localhost:1313/projects/sporadic/</guid>
+      <description>Website
+Sporadic is my latest published iOS project. It is a simple app that gives you random workouts throughout the week. It is a native iOS app built with Swift UI. I took on this project to learn how to build non-game apps. I have learned a lot about Swift, Swift UI, and iOS in general. This includes things such as local notifications, swapping app icons, and light/dark mode switching.</description>
+    </item>
+    <item>
+      <title>Hexmesh</title>
+      <link>http://localhost:1313/projects/hexmesh/</link>
+      <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/hexmesh/</guid>
+      <description>Hexmesh Duo is the most recent game that I have created. It has currently been put on hold for other projects. My goal with this game was to expand my reach with Unity into a 3D game because all of my previous games are 2D. Most of the skills I had learned from previous projects were transferrable; however, there were a few key differences.
+One of the biggest changes was creating 3D objects.</description>
+    </item>
+    <item>
+      <title>Spinny Spot</title>
+      <link>http://localhost:1313/projects/spinny-spot/</link>
+      <pubDate>Fri, 24 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/spinny-spot/</guid>
+      <description>iOS App Store
+GitHub
+Spinny Spot is my latest game that I made with Unity3D and C#. Unique in style, this app focused on smooth animations and simple visuals. My focus was to build a user interface that looked good before I even started creating a game. I made a full size template before I even came up with the concept for Spinny Spot. This allowed me to focus on graphics before getting caught up in all the features that I wanted to add.</description>
+    </item>
+    <item>
+      <title>Swap the Colors</title>
+      <link>http://localhost:1313/projects/swap-the-colors/</link>
+      <pubDate>Thu, 17 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/swap-the-colors/</guid>
+      <description>iOS App Store
+Swap the Colors was the second to last app that I published before recently releasing Spinny Spot. I would consider this game to be one of the most well rounded that I had made at the time because it brought together a decent looking user interface and fun gameplay.
+The biggest challenge that I faced while creating Swap the Colors was creating the system for the bar at the bottom to move whenever the user tapped.</description>
+    </item>
+    <item>
+      <title>Bomb the Balls</title>
+      <link>http://localhost:1313/projects/bomb-the-balls/</link>
+      <pubDate>Sun, 25 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/bomb-the-balls/</guid>
+      <description>Bomb the Balls is a game that I came up with on accident. I wanted to learn more about 2D physics, so I started experimenting on my own. I got the idea for the game while practicing with bounce mechanics, and it ended up being the game that took the least amount of time to develop.
+Looking back on it now, Bomb the Balls is not a bad game; however, it is not exactly the most exciting either.</description>
+    </item>
+    <item>
+      <title>Color Invasion</title>
+      <link>http://localhost:1313/projects/color-invasion/</link>
+      <pubDate>Wed, 27 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/color-invasion/</guid>
+      <description>iOS App Store
+Color Invasion was a game that I thought up by drawing out my ideas on a note card. I would not say that the game is exactly the most impressive thing I have ever done, but I do feel like it does a good job of showing how my skills progressed.
+After making a few games, I knew that I wanted to continue on and make more.</description>
+    </item>
+    <item>
+      <title>Astro-Scape</title>
+      <link>http://localhost:1313/projects/astro-scape/</link>
+      <pubDate>Thu, 26 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/astro-scape/</guid>
+      <description>iOS App Store
+GitHub
+Astro-Scape is the second game that I made using Unity3D. The game takes place in space, and the player’s role is to maneuver their ship through a meteor field. I made this game in 2015 alongside my brother and cousin who helped with ideas and design. Like all of my other apps made in Unity, I programmed it using C#.
+As a beginner programmer, the greatest challenge that I faced while making this game was coming up with a system for ship customization.</description>
+    </item>
+    <item>
+      <title>Murican Ninja</title>
+      <link>http://localhost:1313/projects/murican-ninja/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/murican-ninja/</guid>
+      <description>iOS App Store
+Murican’ Ninja is the first app that I made, and more importantly, the first software project that I ever tackled in general. During my freshman year of high school, I got together with my brother and cousin to come up with an app idea. I can’t say just how we came up with Murican’ Ninja, but this app has become a fun memory to hold onto over the years.</description>
+    </item>
+  </channel>
+</rss>

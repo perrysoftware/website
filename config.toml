@@ -1,0 +1,51 @@
+baseURL = "https://perrysoftware.com"
+title = "perrysoftware.com"
+theme = "PaperMod"
+
+[params]
+env = "production"
+title = "Perry Software LLC"
+description = "Business Website"
+keywords = [ "Portfolio", "Software", "Brendan", "Perry", "Software Engineer", "Software Developer", "iOS", "Perry Software LLC" ]
+author = "Brendan Perry"
+DateFormat = "January 2, 2006"
+defaultTheme = "light"
+disableThemeToggle = true
+ShowCodeCopyButtons = true
+disableScrollToTop = false
+comments = false
+
+[params.label]
+text = "Perry Software"
+iconHeight = 35
+
+[params.profileMode]
+enabled = true
+title = "Perry Software"
+subtitle = "My name is Brendan Pery, and I provide software development services, specializing in mobile apps. Send me an email to discuss a project that I can build with you!"
+imageUrl = "/profilePicture.jpg"
+imageWidth = 200
+imageHeight = 200
+imageTitle = "Headshot"
+
+[[params.profileMode.buttons]]
+name = "About Me"
+url = "https://brendanperry.me/posts/about-me"
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://linkedin.com/in/brendanperry"
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/brendanperry"
+
+[[params.socialIcons]]
+name = "email"
+url = "mailto://brendan@perrysoftware.com"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
