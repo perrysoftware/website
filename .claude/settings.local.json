@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find /Users/brendan/Developer/Perry-Software-LLC -maxdepth 2 -name *sporadic* -o -name *sprout*)",
+      "Bash(git:*)",
+      "Bash(rm -rf .git/modules/themes themes/)",
+      "Bash(rm -f .gitmodules)",
+      "Bash(mkdir -p images)",
+      "Bash(cp static/profilePicture.jpg images/)",
+      "Bash(cp static/sporadic.png images/)",
+      "Bash(cp static/CNAME .)",
+      "Bash(cp ../sproutings/assets/images/screenshots/hero-devices.webp images/sproutings-hero.webp)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:8080)",
+      "WebFetch(domain:sporadic.app)",
+      "WebFetch(domain:sproutings.app)",
+      "Bash(curl -sv https://sporadic.app/images/shot-1.jpg)",
+      "Read(//Users/brendan/Developer/**)",
+      "Bash(cp /Users/brendan/Developer/Personal/SporadicParent/Sporadic-Website/images/shot-1.jpg /Users/brendan/Developer/Perry-Software-LLC/website/images/sporadic-1.jpg)",
+      "Bash(cp /Users/brendan/Developer/Personal/SporadicParent/Sporadic-Website/images/shot-2.jpg /Users/brendan/Developer/Perry-Software-LLC/website/images/sporadic-2.jpg)",
+      "Bash(cp /Users/brendan/Developer/Personal/SporadicParent/Sporadic-Website/images/shot-3.jpg /Users/brendan/Developer/Perry-Software-LLC/website/images/sporadic-3.jpg)",
+      "Bash(cp /Users/brendan/Developer/Personal/SporadicParent/Sporadic-Website/images/shot-4.jpg /Users/brendan/Developer/Perry-Software-LLC/website/images/sporadic-4.jpg)"
+    ]
+  }
+}
